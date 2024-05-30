@@ -1,0 +1,27 @@
+{
+  "feed": {
+    "items": [
+      {
+        "streamformat": "format1",
+        "title": "Title 1",
+        "url": "https://example.com/1",
+        "description": "Description 1",
+        "thumbnail": "https://example.com/thumbnail1.jpg"
+      },
+      {
+        "streamformat": "format2",
+        "title": "Title 2",
+        "url": "https://example.com/2",
+        "description": "Description 2",
+        "thumbnail": "https://example.com/thumbnail2.jpg"
+      },
+      {
+        "streamformat": "format3",
+        "title": "Title 3",
+        "url": "https://example.com/3",
+        "description": "Description 3",
+        "thumbnail": "https://example.com/thumbnail3.jpg"
+      }
+    ]
+  }
+}
